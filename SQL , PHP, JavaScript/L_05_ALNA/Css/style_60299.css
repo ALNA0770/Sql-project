@@ -1,0 +1,25 @@
+body{
+    margin: 15px auto;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+header, footer{
+    margin: 20px;
+}
+footer{
+    font-style: italic;
+}
+table,tr,td{
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul{
+    text-align: left;
+    margin-left: 40%;
+}

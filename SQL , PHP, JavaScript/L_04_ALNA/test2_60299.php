@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Test HTML 2</title>
+</head>
+<body>
+    <h1>Welcome to PHP</h1>
+    <?php echo ('Hello World');
+    ?>
+        
+    <?php echo ('Hello World');
+    ?>
+        
+        
+
+
+</body>
+</html>
